@@ -1,6 +1,6 @@
 ### Hi.
 
-This is my [https://registry.jsonresume.org/CasKei](Resume/CV).
+This is my [Resume/CV](https://registry.jsonresume.org/CasKei).
 Currently a final year student in SUTD.
 
 <!--
