@@ -1,7 +1,7 @@
 ### Hi.
 
 This is my [Resume/CV](https://registry.jsonresume.org/CasKei).
-Currently a final year student in SUTD.
+Fresh graduate from SUTD.
 
 <!--
 **CasKei/CasKei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
