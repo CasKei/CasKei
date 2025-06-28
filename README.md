@@ -1,7 +1,7 @@
 ### Hi.
 
-This is my [Resume/CV](https://registry.jsonresume.org/CasKei).
-Fresh graduate from SUTD.
+This is my [Resume/CV](https://registry.jsonresume.org/CasKei?theme=stackoverflow).
+Graduated from SUTD Class of 2024.
 
 <!--
 **CasKei/CasKei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
